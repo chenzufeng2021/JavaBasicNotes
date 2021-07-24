@@ -1,5 +1,4 @@
-# Summary
+# Table of contents
 
-* [简介](README.md)
-* [反射](./Reflection/Java反射机制.md)
+* [Initial page](README.md)
 
